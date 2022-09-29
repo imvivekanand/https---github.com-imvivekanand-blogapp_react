@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Article from "./pages/Article";
 import ArticlesList from "./pages/ArticlesList";
+import Articles from "./pages/article-content";
 
 import NavBar from "./components/NavBar";
 
